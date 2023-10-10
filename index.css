@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(33, 81, 65);
+}
+
+.F1{
+    border: 5px solid rgb(213, 17, 17);
+    padding: 10px;
+    width: 700px;
+    height: 560px;
+    background-color: rgba(243, 217, 85, 0.758);
+    border-radius: 30px;
+}
+
+.Online{
+    font-size: 40px;
+    font-weight: bold;
+    color: blueviolet;
+    margin-top: 20px;
+
+}
+#div1{
+    width: 400px;
+    height: 50px;
+    background-color: rgb(189, 15, 157);
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    color: rgb(4, 4, 110);
+    padding-top: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+#div2{
+    width: 400px;
+    height: 60px;
+    padding-top: 8px;
+    font-size: 40px;
+    font-weight: bold;
+    border-left: 2px solid  rgb(189, 15, 157);
+    border-right: 2px solid  rgb(189, 15, 157);
+    background-color: rgb(217, 184, 184);
+
+}
+#div3{
+    width: 400px;
+    height: 80px;
+    background-color: rgb(189, 15, 157);
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+#jj1 {
+    font-size: 20px;
+    color: rgba(10, 10, 220, 0.955);
+}
+#text1{
+    font-size: 20px;
+}
